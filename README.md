@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **JoeDirt007/JoeDirt007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... email
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... I have a Guinness world record with my name on it
--->
